@@ -8,8 +8,8 @@
 ### Collaberators: Jon Gentry, Greg Dukes, Cory Henderson, Alex White , Aaron Ferris
 
 ### Links and Resources
-* [Pull Request to Master](https://github.com/codefellows-js-401d29-aaron-ferris/lab11/pull/1)
-* [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab11)
+* [Pull Request to Master](https://github.com/401-advanced-javascript-v/lab-11/pull/1)
+* [![Build Status](https://travis-ci.com/401-advanced-javascript-v/lab-11.svg?branch=working)](https://travis-ci.com/401-advanced-javascript-v/lab-11)
 * [heroku deployment] didn't work
 
 
